@@ -1,4 +1,12 @@
 
+
+interesting...but better control your Freetronics led panels with crossplatform arduino! see: https://github.com/freetronics/DMD
+
+and how to connect the cable:
+https://forum.arduino.cc/index.php?topic=260320.0
+
+
+
 ========================================================================
        GENERAL INFO
 ========================================================================
